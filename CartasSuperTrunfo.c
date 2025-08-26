@@ -85,10 +85,6 @@ printf("Numero de Pontos Turisticos da Cidade : %d\n",NumeroPontosTuristicos2);
 
 
 
-
-
-
-
 }
 
 
